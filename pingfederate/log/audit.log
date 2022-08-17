@@ -1,0 +1,101 @@
+2022-08-12 13:13:53,044| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 59 
+2022-08-12 13:13:58,207| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 5 
+2022-08-12 13:14:00,029| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 1 
+2022-08-12 13:14:01,966| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:14:01,988| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 23 
+2022-08-12 13:15:46,820| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:15:46,838| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 19 
+2022-08-12 13:19:24,788| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 3 
+2022-08-12 13:19:29,363| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 6 
+2022-08-12 13:19:31,110| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 1 
+2022-08-12 13:19:32,476| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:19:32,482| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 7 
+2022-08-12 13:22:11,830| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 22 
+2022-08-12 13:22:11,836| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 28 
+2022-08-12 13:24:34,509| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | invalid_request: redirect_uri is required in the context of this request.| 1 
+2022-08-12 13:26:15,512| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:26:15,513| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Invalid Request| 2 
+2022-08-12 13:26:43,434| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:26:43,439| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Invalid Request| 6 
+2022-08-12 13:26:46,621| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:26:46,621| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Invalid Request| 1 
+2022-08-12 13:26:47,261| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 13:26:47,262| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Invalid Request| 1 
+2022-08-12 13:26:47,431| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:26:47,453| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Invalid Request| 23 
+2022-08-12 13:26:53,459| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 13:26:53,460| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Invalid Request| 1 
+2022-08-12 13:27:13,728| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 4 
+2022-08-12 13:27:23,900| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 6 
+2022-08-12 13:27:25,973| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 15 
+2022-08-12 13:27:27,938| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:27:27,939| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | invalid_grant: redirect_uri is required if it was included in the authorization request.| 2 
+2022-08-12 13:27:36,464| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:27:36,465| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Authorization Code Invalid or Expired| 2 
+2022-08-12 13:27:38,320| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 13:27:38,321| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Authorization Code Invalid or Expired| 1 
+2022-08-12 13:27:42,927| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:27:42,928| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Invalid Request| 2 
+2022-08-12 13:27:53,316| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 3 
+2022-08-12 13:28:09,008| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 3 
+2022-08-12 13:28:14,354| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 9 
+2022-08-12 13:28:17,940| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 5 
+2022-08-12 13:28:19,508| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 2 
+2022-08-12 13:28:21,922| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 13:28:21,932| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 10 
+2022-08-12 13:29:35,794| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 13:29:35,800| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 6 
+2022-08-12 13:31:09,211| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 3 
+2022-08-12 13:31:16,007| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 5 
+2022-08-12 13:31:17,670| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 1 
+2022-08-12 13:31:26,762| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 3 
+2022-08-12 13:31:31,229| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 6 
+2022-08-12 13:31:32,515| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 2 
+2022-08-12 13:31:34,068| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 13:31:34,074| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 6 
+2022-08-12 13:31:54,863| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_oic_client| OIDC| marinoduran-r.attlocal.net| AS| success| | | 10 
+2022-08-12 13:34:00,550| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:34:00,556| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 7 
+2022-08-12 13:49:09,269| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 2 
+2022-08-12 13:49:14,520| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 5 
+2022-08-12 13:49:16,384| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 1 
+2022-08-12 13:49:17,984| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:49:17,990| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 7 
+2022-08-12 13:49:40,755| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:49:40,775| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | invalid_request: Could not find a Access Token Mapping for the selected Policy Processor 'AccessTokenProcessorPolicy' and Access Token Manager 'JWTATM2'.| 21 
+2022-08-12 13:52:58,979| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 2 
+2022-08-12 13:53:03,854| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 5 
+2022-08-12 13:53:05,297| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 1 
+2022-08-12 13:53:07,114| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 13:53:07,120| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 6 
+2022-08-12 13:53:18,198| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:53:18,209| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 12 
+2022-08-12 13:53:42,842| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 3 
+2022-08-12 13:53:48,096| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 6 
+2022-08-12 13:53:51,325| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 6 
+2022-08-12 13:53:52,939| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 2 
+2022-08-12 13:53:54,975| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 13:53:54,992| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 18 
+2022-08-12 13:54:12,807| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 13:54:12,813| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 6 
+2022-08-12 14:27:03,664| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 29 
+2022-08-12 14:27:08,792| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_oic_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 5 
+2022-08-12 14:27:11,139| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| HTMLFormSimplePCV| No value found for required attribute/claim 'sub' in the mapped user info attributes: {zoneinfo=America/New_York, website=https://www.pingidentity.com/, address.locality=Smallville, birthdate=1977-12-31, email_verified=true, gender=female, profile=https://www.pingidentity.com/products/pingfederate/, phone_number_verified=true, preferred_username=mgsample, locale=en_US, given_name=Mary, middle_name=Good, picture=https://www.pingidentity.com/images/ping-logo.png, address.country=USA, updated_at=2011-01-03T23:58:42+0000, address.postal_code=11223, address.region=ME, nickname=Name, name=Mary Good Sample, phone_number=(555) 555-5555, address.formatted=123 Main Street, Smallville, ME USA 11223, family_name=Sample, email=auser@example.com, address.street_address=123 Main Street}| 1 
+2022-08-12 14:27:17,740| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 14:27:17,741| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_oic_client| OAuth20| marinoduran-r.attlocal.net| AS| failure| | Invalid Request| 1 
+2022-08-12 14:27:36,201| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 2 
+2022-08-12 14:27:41,225| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 6 
+2022-08-12 14:27:42,812| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 1 
+2022-08-12 14:27:44,469| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 14:27:44,476| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 8 
+2022-08-12 14:28:05,950| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 14:28:05,957| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 8 
+2022-08-12 14:28:29,856| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 0 
+2022-08-12 14:28:29,861| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 5 
+2022-08-12 14:31:06,060| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| | 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| inprogress| HTMLFormSimplePCV| | 3 
+2022-08-12 14:31:11,697| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| AUTHN_ATTEMPT| joe| 127.0.0.1 | | ac_client| | marinoduran-r.attlocal.net| IdP| success| HTMLFormSimplePCV| | 6 
+2022-08-12 14:31:13,697| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| HTMLFormSimplePCV| | 1 
+2022-08-12 14:31:15,944| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 14:31:15,949| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| joe| 127.0.0.1 | | ac_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 6 
+2022-08-12 14:31:26,135| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| inprogress| | | 1 
+2022-08-12 14:31:26,141| tid:gZLnhKVVsr2TcT_vc4ZE7NwlRko| OAuth| | 127.0.0.1 | | tx2_client| OAuth20| marinoduran-r.attlocal.net| AS| success| | | 7 

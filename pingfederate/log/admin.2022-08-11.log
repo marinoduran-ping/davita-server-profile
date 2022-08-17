@@ -1,0 +1,66 @@
+2022-08-11 09:00:42,391 |  |  | 127.0.0.1 |  | USER | CREATE |  | Administrator
+2022-08-11 09:00:42,391 |  |  | 127.0.0.1 |  | USER | ACTIVATE |  | Administrator
+2022-08-11 09:00:42,878 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | Wxryb0A8a1ArTVnJ00ngTQ7zZA3ub_lH5nW0xGjti8A | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 09:02:56,629 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | 8qS1pUnIupAlu0c7RMKznAZzeXGXGyFIOmbWPVv-XNw | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 09:26:12,296 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | x2wBt9Zv_qghRjD7kBZkZA_xRlG-g6u0V281Z8RMpo0 | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 09:36:19,578 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN | MODIFY |  | JSON Web Tokens
+2022-08-11 09:38:12,071 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 09:40:21,894 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_CLIENTS | MODIFY |  | 
+2022-08-11 09:49:02,241 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 09:52:51,996 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_SERVER_SETTINGS | MODIFY |  | 
+2022-08-11 09:53:39,296 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_SERVER_SETTINGS | MODIFY |  | 
+2022-08-11 10:21:48,245 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 10:21:55,771 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | jZil9el4sr1fQ2C24ukeaNpT_gEQ7zyFb-eIk6z31ig | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 10:26:06,714 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_POLICY | MODIFY |  | 
+2022-08-11 11:03:23,704 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin |  | jZil9el4sr1fQ2C24ukeaNpT_gEQ7zyFb-eIk6z31ig | USER | SESSION_TIMEOUT |  | Session timed out at 2022-08-11 10:56:06,756
+2022-08-11 11:54:10,953 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | -WTZACLOENM-CqJSSoGclU_b_gmOtnnHspSXP9zyBSY | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 12:33:23,874 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin |  | -WTZACLOENM-CqJSSoGclU_b_gmOtnnHspSXP9zyBSY | USER | SESSION_TIMEOUT |  | Session timed out at 2022-08-11 12:29:30,559
+2022-08-11 15:11:19,234 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | AENo9Ms6RgsyJplbePZpasF1URdukx8F3U1_-kjbIjg | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:14:49,292 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 15:14:55,695 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | oTigNzUccTsoBWgCzmoqbiBjeuzIouyY-rGihDhEYtQ | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:16:36,458 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 15:16:44,133 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | C7oHFc6fMkSlqIUvoTK_M_EtN6gpHNjPBuhJe4kY0sw | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:18:51,055 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN | MODIFY |  | JSON Web Tokens
+2022-08-11 15:20:07,387 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN | MODIFY |  | JSON Web Tokens
+2022-08-11 15:22:27,651 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 15:22:34,450 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | ITbok3pvVhvcxKCK5s-BnzNmhJwj7n-6QmBi-i9PGYY | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:26:32,805 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN | MODIFY |  | JSON Web Tokens
+2022-08-11 15:27:17,207 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 15:27:41,863 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 15:27:50,875 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 15:28:54,805 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 15:29:01,021 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | nMS9G6--AQGfOHkjNXmrwQqYUfReTzGWr0cVoceA6z4 | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:36:44,413 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN | MODIFY |  | JSON Web Tokens
+2022-08-11 15:37:16,647 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 15:37:33,238 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 15:39:59,811 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 15:40:05,109 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | l8OhY4BjWesEE3hiFW4c4WmmvhppA-RgdjELa0-a-U0 | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:41:37,904 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | IDP_CONNECTION | MODIFY |  | localhost:default:entityId
+2022-08-11 15:41:58,187 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | IDP_CONNECTION | MODIFY |  | localhost:default:entityId
+2022-08-11 15:42:53,878 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 15:43:00,360 | Administrator |  | 127.0.0.1 |  | USER | LOGIN_ATTEMPT |  | Incorrect password
+2022-08-11 15:43:04,375 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | cWtylIy4vXYpD0QkDjGkv8gKx-EKdw_vwh0uaCPDyx8 | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:43:47,412 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | IDP_ADAPTER | MODIFY |  | HTMLFormSimplePCV
+2022-08-11 15:44:49,464 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 15:46:35,356 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 15:46:51,499 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | xcbDxmj15Yb__J74yczmKTw86yYNKJJcNb9LyNJxnms | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:50:23,799 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 15:50:31,450 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | dWCbzzOeIgPhZTCz2Xd-j7qvM18JyKmxYEQwosmoYxY | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 15:54:18,296 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN | MODIFY |  | JSON Web Tokens
+2022-08-11 16:00:14,576 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 16:00:23,949 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | yMMA9QNNIn341Oy59VIrFcEath5sruBUzNMq-zJ7HvE | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 16:01:42,353 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN | MODIFY |  | JSON Web Tokens
+2022-08-11 16:02:56,718 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 16:03:04,273 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 16:04:57,469 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 16:05:02,719 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | Y8TC3z-NKZ8fz9zZC8N03iSlNFuIKFT-_ndIfLPsifo | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 16:05:36,348 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | IDP_CONNECTION | MODIFY |  | localhost:default:entityId
+2022-08-11 16:06:57,599 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 16:07:08,583 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | xpvXJHZScsgm40OZVu75NqTQ8-Ye-WTYf3AvzHHZ1wk | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 16:08:20,085 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | OAUTH_ACCESS_TOKEN_MAPPING | MODIFY |  | 
+2022-08-11 16:09:53,020 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | IDP_CONNECTION | MODIFY |  | localhost:default:entityId
+2022-08-11 16:11:09,846 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 |  | USER | LOGOUT |  | 
+2022-08-11 16:11:16,190 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | El-MXeDyQU7pf4WHVYAFgtiMI1TpAW7OUfP_fdb0gT0 | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 16:59:12,514 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin |  | El-MXeDyQU7pf4WHVYAFgtiMI1TpAW7OUfP_fdb0gT0 | USER | SESSION_TIMEOUT |  | Session timed out at 2022-08-11 16:53:49,636
+2022-08-11 17:21:52,416 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin | 127.0.0.1 | WcABaYyiTUO5OvEUQZWXg1xDFrbgVxLzlqdVoaFeYuM | USER | LOGIN_ATTEMPT |  | Login was successful
+2022-08-11 18:06:43,729 | Administrator | UserAdmin,Admin,CryptoAdmin,ExpressionAdmin |  | WcABaYyiTUO5OvEUQZWXg1xDFrbgVxLzlqdVoaFeYuM | USER | SESSION_TIMEOUT |  | Session timed out at 2022-08-11 17:52:04,384

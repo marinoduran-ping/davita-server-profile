@@ -1,0 +1,14 @@
+ID=00308745
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=11.0
+EnforcementType=3
+Tier=Free
+IssueDate=2021-12-29
+ExpirationDate=2121-12-29
+DeploymentMethod=Traditional
+Organization=Ping Identity Corporation
+SignCode=FF0F
+Signature=302C02147080A94DA4B5E4E1FBACCBB8C377F32E81D030BB021404620336A9867C942AA9DCFAF388E9E35FD5BEFA
