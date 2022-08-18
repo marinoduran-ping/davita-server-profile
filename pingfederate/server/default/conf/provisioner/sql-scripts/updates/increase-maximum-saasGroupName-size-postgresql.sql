@@ -1,1 +1,0 @@
-ALTER TABLE channel_group ALTER COLUMN saasGroupName TYPE VARCHAR(4000);
