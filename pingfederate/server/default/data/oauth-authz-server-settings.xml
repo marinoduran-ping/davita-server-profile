@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urn:OAuthConfig enableOAuth="true" authzCodeLength="30" authzCodeTimeout="60" restrictPlainPKCE="false" includeIssuerInAuthzResponse="false" rollRefreshTokens="false" refreshTokenRollingGracePeriod="0" rollingInterval="0" refreshTokenLength="42" atmIdForOAuthGrantManagement="" scopeForOAuthGrantManagement="" globalPersistentGrantExpirationTime="-1" globalPersistentGrantExpirationTimeUnit="d" globalPersistentGrantIdleTimeout="30" globalPersistentGrantIdleTimeoutTimeUnit="d" tokenEndpointBaseUrl="http://localhost" userAuthzUrl="" registeredAuthzPath="" pendingAuthzTimeout="600" bypassActivationCodeConfirmation="false" devicePollingInterval="5" authzConsentSetting="INTERNAL" parTimeout="60" parRefLength="24" parStatus="ENABLED" xmlns:urn="urn:pingidentity.com:pf:oauth:conf">
+    <urn:UserKeyToAccessTokenMapping contextId="urn:ietf:params:oauth:grant-type:token-exchange|AccessTokenProcessorPolicy" tokenManagerId="jwt">
+        <urn1:AttributeMap Name="mapping" Type="No Mapping" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>NO_MAPPING</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="website" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>Ping.com</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="Username" Type="Processor Policy" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>tepp.subject</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="name" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>Marinod</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="OrgName" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>Ping Identity Corporation</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="email" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>md@marinoduran.com</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="something" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>exchangeME</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:TokenAuthorizationIssuanceCriteria xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2"/>
+    </urn:UserKeyToAccessTokenMapping>
+    <urn:UserKeyToAccessTokenMapping contextId="default" tokenManagerId="jwt">
+        <urn1:AttributeMap Name="mapping" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>Default</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="website" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>default website</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="Username" Type="Persistent Grant" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>USER_KEY</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="name" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>default name</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="OrgName" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>Ping Identity Corporation</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="email" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>default email</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="something" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>else</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:TokenAuthorizationIssuanceCriteria xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2"/>
+    </urn:UserKeyToAccessTokenMapping>
+    <urn:UserKeyToAccessTokenMapping contextId="urn:ietf:params:oauth:grant-type:token-exchange|AccessTokenProcessorPolicy" tokenManagerId="JWTATM2">
+        <urn1:AttributeMap Name="ATM_username" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>map2</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="ATM_client_id" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>map2</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="ATM_map" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>map2</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="ATM_email" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>map2</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="ATM_something" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>map2</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="ATM_website" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>map2</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:TokenAuthorizationIssuanceCriteria xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2"/>
+    </urn:UserKeyToAccessTokenMapping>
+    <urn:UserKeyToAccessTokenMapping contextId="default" tokenManagerId="ref">
+        <urn1:AttributeMap Name="Username" Type="Persistent Grant" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>USER_KEY</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="OrgName" Type="Text" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>Ping Identity Corporation</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:TokenAuthorizationIssuanceCriteria xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2"/>
+    </urn:UserKeyToAccessTokenMapping>
+    <urn:AdapterToUserKeyMapping sourcePluginId="HTMLFormSimplePCV">
+        <urn1:AttributeMap Name="USER_NAME" Type="Adapter" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>username</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:AttributeMap Name="USER_KEY" Type="Adapter" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>username</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:TokenAuthorizationIssuanceCriteria xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2"/>
+    </urn:AdapterToUserKeyMapping>
+    <urn:PasswordCredentialValidatorToUserKeyMapping sourcePluginId="UserPass">
+        <urn1:AttributeMap Name="USER_KEY" Type="Password Credential Validator" xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2">
+            <urn1:ValueText>username</urn1:ValueText>
+        </urn1:AttributeMap>
+        <urn1:TokenAuthorizationIssuanceCriteria xmlns:urn1="urn:sourceid.org:saml2:metadata-extension:v2"/>
+    </urn:PasswordCredentialValidatorToUserKeyMapping>
+    <urn:ReuseExistingPersistentGrantForGrant>implicit</urn:ReuseExistingPersistentGrantForGrant>
+</urn:OAuthConfig>
